@@ -11,6 +11,6 @@ InstanceOf: MCSDJurisdictionOrganization
 
 * type[jurisdiction] = MCSDOrganizationLocationTypes#jurisdiction
 * identifier[+] = $TNGParticipantsWHODEV#RACSEL-XCL
-* partOf = Reference(XCL)
+* partOf = Reference(RACSEL)
 * endpoint[+] = Reference(Endpoint-TNG-PKI-DID-RACSEL-XCL)
 
